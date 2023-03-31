@@ -1,0 +1,39 @@
+[
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "author_name": "Mr. Raju",
+        "title": "How to get your first job as a self-taught programmer",
+        "img": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "author_image": "https://img.freepik.com/free-photo/portrait-successful-man-having-stubble-posing-with-broad-smile-keeping-arms-folded_171337-1267.jpg?w=740&t=st=1680198719~exp=1680199319~hmac=2898cfd10a82cda17681811f491bb313843c2234a05bcc35169600de4fae3334 ",
+        "publish_date": "Mar 14 (4 Days ago) ",
+        "time": 5
+    },
+    {
+        "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+        "author_name": "Mrs. Setara",
+        "title": "Master Microsoft Power Platform and Become an In-Demand!",
+        "img": "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=740&t=st=1680187291~exp=1680187891~hmac=e5fbd6303db3dac47d3cc1b03f2bbbd7072744e42d26c66dc6d98c8317ea8b2b",
+        "author_image": "https://img.freepik.com/free-photo/confident-bearded-macho-man-looks-pleased-has-friendly-kind-grin-face-wears-round-spectacles-pink-jumper_273609-51174.jpg?w=740&t=st=1680198693~exp=1680199293~hmac=e53cdcb7f2b7cd88c3da819f837a1a6fb2235c7d67b0e0e86e636cb82ef744d5 ",
+        "publish_date": "Mar 14 (4 Days ago) ",
+        "time": 14
+    },
+    {
+        "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+        "author_name": "Mina Mostofa",
+        "title":"Software development and programming",
+        "img": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "author_image": "https://img.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg?w=740&t=st=1680198665~exp=1680199265~hmac=74772a056bf469e40ca68fe49011d659c8171e196499b3379aa041a4e5f0efdb ",
+        "publish_date": "Mar 14 (4 Days ago) ",
+        "time": 10
+        
+    },
+    {
+        "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+        "author_name": "Mis. Asma",
+        "title": "Program Code Listing, Abstract Programming Background. Vector",
+        "img": "https://as2.ftcdn.net/v2/jpg/03/08/69/75/1000_F_308697506_9dsBYHXm9FwuW0qcEqimAEXUvzTwfzwe.jpg",
+        "author_image": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?w=740&t=st=1680198590~exp=1680199190~hmac=8fd9b73c0887dd55d82b81f167d21117f249c09d752c1bd9b62ad551a6a86935 ",
+        "publish_date": "Mar 14 (4 Days ago) ",
+        "time": 12
+    }
+]
